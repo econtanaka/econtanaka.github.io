@@ -25,54 +25,65 @@ main:
     authors: with Yuancheng Han and Jorge Miranda-Pinto
     conference: <em>Journal of International Economics</em>, Vol. 158, 104178, December 2025.
     pdf: papers/service_trade_regional_specialization.pdf
+    journal: https://doi.org/10.1016/j.jinteco.2025.104178
     code: https://data.mendeley.com/datasets/cf3vpvvpgd/1
 
   - title: "Occupational Reallocations within and across Firms: Implications for the Labor Market Polarization"
     authors: with Toshi Mukoyama and Naoki Takayama
     conference: <em>Journal of Monetary Economics</em>, Vol. 150, 103701, March 2025.
     pdf: papers/occupational_reallocations.pdf
+    journal: https://doi.org/10.1016/j.jmoneco.2024.103701
     code: https://data.mendeley.com/datasets/t3mkw334b6/1
 
   - title: Earnings Growth, Job Flows and Churn
     authors: with Lawrence Warren and David Wiczer
     conference: <em>Journal of Monetary Economics</em>, Vol. 135, pp. 86-98, April 2023.
     pdf: papers/earnings_growth_job_flows_churn.pdf
+    journal: https://doi.org/10.1016/j.jmoneco.2023.01.004
 
   - title: "The Heterogeneous Effects of COVID-19 on Labor Markets: People's Movement and Non-Pharmaceutical Interventions"
     authors: with K. Hoshi, H. Kasahara, R. Makioka, and M. Suzuki
     conference: <em>Journal of the Japanese and International Economies</em>, Vol. 63, 101170, March 2022.
+    journal: https://doi.org/10.1016/j.jjie.2021.101170
 
   - title: Economic Impacts of SARS/MERS/COVID-19 in Asian Countries
     authors: Satoshi Tanaka
     conference: <em>Asian Economic Policy Review</em>, Vol. 17, Issue 1, pp. 41-61, January 2022.
+    journal: https://doi.org/10.1111/aepr.12363
 
   - title: Trade-Off between Job Losses and the Spread of COVID-19 in Japan
     authors: with Kisho Hoshi, Hiro Kasahara, Ryo Makioka, and Michio Suzuki
     conference: <em>Japanese Economic Review</em>, Vol. 72, Issue 4, pp. 683-716, October 2021.
+    journal: https://doi.org/10.1007/s42973-021-00092-w
 
   - title: "Who Spent Their COVID-19 Stimulus Payment? Evidence from Personal Finance Software in Japan"
     authors: with Michiru Kaneda and So Kubota
     conference: <em>Japanese Economic Review</em>, Vol. 72, Issue 3, pp. 409-437, January 2021.
+    journal: https://doi.org/10.1007/s42973-021-00080-0
 
   - title: Multidimensional Skill Mismatch
     authors: with Fatih Guvenen, Burhan Kuruscu, and David Wiczer
     conference: "<em>American Economic Journal: Macroeconomics</em>, Vol. 12, No. 1, pp. 210-244, January 2020."
     pdf: papers/multidimensional_skill_mismatch.pdf
+    journal: https://doi.org/10.1257/mac.20160241
 
   - title: Sectoral Shocks and Home Substitution
     authors: with Alessio Moro
     conference: <em>Economics Letters</em>, Vol. 181, pp. 57-60, August 2019.
     pdf: papers/sectoral_shocks_home_substitution.pdf
+    journal: https://doi.org/10.1016/j.econlet.2019.04.020
 
   - title: Does Home Production Drive Structural Transformation?
     authors: with Alessio Moro and Solmaz Moslehi
     conference: "<em>American Economic Journal: Macroeconomics</em>, Vol. 9, No. 3, pp. 116-146, July 2017."
     pdf: papers/home_production_structural_transformation.pdf
+    journal: https://doi.org/10.1257/mac.20150109
 
   - title: Marriage and Economic Development in the Twentieth Century
     authors: with Alessio Moro and Solmaz Moslehi
     conference: <em>Journal of Demographic Economics</em>, Vol. 83, Issue 4, pp. 379-420, December 2017.
     pdf: papers/marriage_economic_development.pdf
+    journal: https://doi.org/10.1017/dem.2017.18
     code: https://github.com/econtanaka/JODE_Moro_Moslehi_Tanaka
 
 work_in_progress:
