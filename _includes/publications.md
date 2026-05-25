@@ -22,7 +22,6 @@
   </div>
 </div>
 </li>
-<br>
 {% endfor %}
 </ol>
 </div>
@@ -51,7 +50,6 @@
   </div>
 </div>
 </li>
-<br>
 {% endfor %}
 </ol>
 </div>
@@ -70,7 +68,6 @@
   </div>
 </div>
 </li>
-<br>
 {% endfor %}
 </ol>
 </div>

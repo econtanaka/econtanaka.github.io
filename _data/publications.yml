@@ -24,16 +24,19 @@ main:
   - title: Service Trade, Regional Specialization, and Welfare
     authors: with Yuancheng Han and Jorge Miranda-Pinto
     conference: <em>Journal of International Economics</em>, Vol. 158, 104178, December 2025.
+    pdf: papers/service_trade_regional_specialization.pdf
     code: https://data.mendeley.com/datasets/cf3vpvvpgd/1
 
   - title: "Occupational Reallocations within and across Firms: Implications for the Labor Market Polarization"
     authors: with Toshi Mukoyama and Naoki Takayama
     conference: <em>Journal of Monetary Economics</em>, Vol. 150, 103701, March 2025.
+    pdf: papers/occupational_reallocations.pdf
     code: https://data.mendeley.com/datasets/t3mkw334b6/1
 
   - title: Earnings Growth, Job Flows and Churn
     authors: with Lawrence Warren and David Wiczer
     conference: <em>Journal of Monetary Economics</em>, Vol. 135, pp. 86-98, April 2023.
+    pdf: papers/earnings_growth_job_flows_churn.pdf
 
   - title: "The Heterogeneous Effects of COVID-19 on Labor Markets: People's Movement and Non-Pharmaceutical Interventions"
     authors: with K. Hoshi, H. Kasahara, R. Makioka, and M. Suzuki
@@ -54,18 +57,22 @@ main:
   - title: Multidimensional Skill Mismatch
     authors: with Fatih Guvenen, Burhan Kuruscu, and David Wiczer
     conference: "<em>American Economic Journal: Macroeconomics</em>, Vol. 12, No. 1, pp. 210-244, January 2020."
+    pdf: papers/multidimensional_skill_mismatch.pdf
 
   - title: Sectoral Shocks and Home Substitution
     authors: with Alessio Moro
     conference: <em>Economics Letters</em>, Vol. 181, pp. 57-60, August 2019.
+    pdf: papers/sectoral_shocks_home_substitution.pdf
 
   - title: Does Home Production Drive Structural Transformation?
     authors: with Alessio Moro and Solmaz Moslehi
     conference: "<em>American Economic Journal: Macroeconomics</em>, Vol. 9, No. 3, pp. 116-146, July 2017."
+    pdf: papers/home_production_structural_transformation.pdf
 
   - title: Marriage and Economic Development in the Twentieth Century
     authors: with Alessio Moro and Solmaz Moslehi
     conference: <em>Journal of Demographic Economics</em>, Vol. 83, Issue 4, pp. 379-420, December 2017.
+    pdf: papers/marriage_economic_development.pdf
     code: https://github.com/econtanaka/JODE_Moro_Moslehi_Tanaka
 
 work_in_progress:
