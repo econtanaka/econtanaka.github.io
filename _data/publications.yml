@@ -94,6 +94,23 @@ main:
     journal: https://doi.org/10.1017/dem.2017.18
     code: https://github.com/econtanaka/JODE_Moro_Moslehi_Tanaka
 
+grants:
+
+  - title: Macroeconomic Analysis of the Australian Higher Education System
+    authors: Chief Investigator
+    conference: <em>ARC Discovery Projects Grant, Australian Research Council</em>, 2026. AUD 371,829.
+    arc: https://www.arc.gov.au/funding-research/funding-schemes/discovery-program/discovery-projects
+
+  - title: "Talent Mismatch: Evidence from Australian Administrative Tax Records"
+    authors: Chief Investigator
+    conference: <em>ARC Discovery Projects Grant, Australian Research Council</em>, 2020. AUD 136,355.
+    arc: https://www.arc.gov.au/funding-research/funding-schemes/discovery-program/discovery-projects
+
+  - title: Banks, Endogenous Network Formations and Financial Crisis
+    authors: Chief Investigator
+    conference: <em>ARC Discovery Projects Grant, Australian Research Council</em>, 2019. AUD 180,000.
+    arc: https://www.arc.gov.au/funding-research/funding-schemes/discovery-program/discovery-projects
+
 work_in_progress:
 
   - title: Competitions among Cities

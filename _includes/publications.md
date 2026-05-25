@@ -74,3 +74,23 @@
 {% endfor %}
 </ol>
 </div>
+
+<h2 id="grants" style="margin: 25px 0px -15px;">Research Grants</h2>
+
+<div class="publications">
+<ol class="bibliography">
+{% for g in site.data.publications.grants %}
+<li>
+<div class="pub-row">
+  <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title">
+        {% if g.arc %}<a href="{{ g.arc }}" target="_blank">{{ g.title }}</a>{% else %}{{ g.title }}{% endif %}
+      </div>
+      <div class="author">{{ g.authors }}</div>
+      <div class="periodical">{{ g.conference }}</div>
+  </div>
+</div>
+</li>
+{% endfor %}
+</ol>
+</div>
