@@ -69,6 +69,7 @@ main:
     conference: "<em>American Economic Journal: Macroeconomics</em>, Vol. 12, No. 1, pp. 210-244, January 2020."
     pdf: papers/multidimensional_skill_mismatch.pdf
     journal: https://doi.org/10.1257/mac.20160241
+    code: https://doi.org/10.3886/e231510v1
     media:
       - outlet: Bloomberg
         url: https://www.bloomberg.com/news/articles/2015-08-06/barista-turned-stylist-shows-americans-switching-careers-again
@@ -86,6 +87,7 @@ main:
     conference: "<em>American Economic Journal: Macroeconomics</em>, Vol. 9, No. 3, pp. 116-146, July 2017."
     pdf: papers/home_production_structural_transformation.pdf
     journal: https://doi.org/10.1257/mac.20150109
+    code: https://doi.org/10.3886/E114116V1
 
   - title: Marriage and Economic Development in the Twentieth Century
     authors: with Alessio Moro and Solmaz Moslehi

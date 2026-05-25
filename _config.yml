@@ -1,5 +1,5 @@
 # Basic Information
-title: Satoshi Tanaka
+title: Satoshi TANAKA
 position: Associate Professor of Economics
 affiliation: University of Queensland
 affiliation_link: https://www.uq.edu.au/
@@ -30,7 +30,7 @@ enable_footnote: true
 auto_dark_mode: true
 
 # Font: "Serif" or "Sans Serif"
-font: "Serif"
+font: "Sans Serif"
 
 # Use this project as a remote theme for GitHub Pages
 remote_theme: yaoyao-liu/minimal-light
