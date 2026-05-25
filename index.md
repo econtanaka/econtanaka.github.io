@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am Associate Professor of Economics at the [University of Queensland](https://www.uq.edu.au/). I received my Ph.D. in Economics from the University of Minnesota. My research is in macroeconomics and labor economics, with a focus on skill mismatch, occupational dynamics, and structural change.
+I am Associate Professor of Economics at the [University of Queensland](https://www.uq.edu.au/). I received my Ph.D. in Economics from the University of Minnesota.
 
 ## Research Interests
 
-- **Macroeconomics:** structural change, household production, economic impacts of pandemics
+- **Macroeconomics:** structural transformation, service sector, home production
 - **Labor Economics:** skill mismatch, occupational mobility, wage inequality, intergenerational mobility
 
 {% include_relative _includes/publications.md %}
