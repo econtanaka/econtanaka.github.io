@@ -8,7 +8,7 @@ I am Associate Professor of Economics at the [University of Queensland](https://
 
 ## Research Interests
 
-- **Macroeconomics:** structural transformation, service sector, home production
+- **Macroeconomics:** structural transformation, services economy, home production
 - **Labor Economics:** skill mismatch, occupational mobility, wage inequality, intergenerational mobility
 
 {% include_relative _includes/publications.md %}
