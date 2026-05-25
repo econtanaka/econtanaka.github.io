@@ -7,7 +7,7 @@
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">
-        {% if link.pdf %}<a href="{{ link.pdf }}">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}
+        {% if link.pdf %}<a href="{{ link.pdf }}">{{ link.title }}</a>{% elsif link.journal %}<a href="{{ link.journal }}" target="_blank">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}
       </div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em></div>
@@ -36,7 +36,7 @@
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">
-        {% if link.pdf %}<a href="{{ link.pdf }}">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}
+        {% if link.pdf %}<a href="{{ link.pdf }}">{{ link.title }}</a>{% elsif link.journal %}<a href="{{ link.journal }}" target="_blank">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}
       </div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em></div>
