@@ -3,14 +3,17 @@ working_papers:
   - title: "College Majors and Skill Mismatch in Labour Markets: A General Equilibrium Approach"
     authors: with Michelle Rendall and Yi Zhang
     conference: New version coming soon.
+    pdf: papers/college_majors_skill_mismatch.pdf
 
   - title: "What Women See in Men and Vice Versa: Estimates Based on Sex Ratios and Marriage Patterns"
     authors: with José-Víctor Ríos-Rull and Shannon Seitz
     conference: Working paper.
+    pdf: papers/what_women_see_in_men.pdf
 
   - title: Occupational Mediation of Intergenerational Income Mobility
     authors: with Arpita Chatterjee, Yuancheng Han, and Aarti Singh
     conference: Working paper.
+    pdf: papers/occupational_mediation_intergenerational_mobility.pdf
 
   - title: "Changes in Wage Inequality Between- and Within-Firm: Evidence from Japan, 1993-2014"
     authors: with Ryo Kambayashi and Shintaro Yamaguchi
@@ -21,10 +24,12 @@ main:
   - title: Service Trade, Regional Specialization, and Welfare
     authors: with Yuancheng Han and Jorge Miranda-Pinto
     conference: <em>Journal of International Economics</em>, Vol. 158, 104178, December 2025.
+    code: https://data.mendeley.com/datasets/cf3vpvvpgd/1
 
   - title: "Occupational Reallocations within and across Firms: Implications for the Labor Market Polarization"
     authors: with Toshi Mukoyama and Naoki Takayama
     conference: <em>Journal of Monetary Economics</em>, Vol. 150, 103701, March 2025.
+    code: https://data.mendeley.com/datasets/t3mkw334b6/1
 
   - title: Earnings Growth, Job Flows and Churn
     authors: with Lawrence Warren and David Wiczer
@@ -61,6 +66,7 @@ main:
   - title: Marriage and Economic Development in the Twentieth Century
     authors: with Alessio Moro and Solmaz Moslehi
     conference: <em>Journal of Demographic Economics</em>, Vol. 83, Issue 4, pp. 379-420, December 2017.
+    code: https://github.com/econtanaka/JODE_Moro_Moslehi_Tanaka
 
 work_in_progress:
 
