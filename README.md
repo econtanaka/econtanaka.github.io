@@ -12,7 +12,7 @@ Jekyll theme and served via GitHub Pages.
 | About / Research Interests / Research Grants           | `index.md`                         |
 | Publications, working papers, work-in-progress entries | `_data/publications.yml`           |
 | Profile photo                                          | `assets/img/avatar.png` (replace)  |
-| CV PDF                                                 | `assets/files/cv.pdf` (replace)    |
+| CV PDF                                                 | `cv/cv.pdf` (replace)              |
 | Favicon (light/dark)                                   | `assets/img/favicon{,-dark}.png`   |
 
 To add a new publication, add an entry under `main:` in `_data/publications.yml`:
