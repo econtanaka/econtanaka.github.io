@@ -49,6 +49,7 @@
       {% if link.notes %}<strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>{% endif %}
       {% if link.others %}{{ link.others }}{% endif %}
     </div>
+    {% if link.media %}<div class="media" style="font-size:0.875rem;color:#555;">Media: {% for m in link.media %}<a href="{{ m.url }}" target="_blank">{{ m.outlet }}</a>{% if m.note %} ({{ m.note }}){% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}</div>{% endif %}
   </div>
 </div>
 </li>

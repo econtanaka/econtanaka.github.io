@@ -56,12 +56,24 @@ main:
     authors: with Michiru Kaneda and So Kubota
     conference: <em>Japanese Economic Review</em>, Vol. 72, Issue 3, pp. 409-437, January 2021.
     journal: https://doi.org/10.1007/s42973-021-00080-0
+    media:
+      - outlet: Nikkei
+        url: https://www.nikkei.com/article/DGXZQOUA095V40Z00C21A4000000/
+        note: in Japanese
+      - outlet: Asahi
+        url: https://www.asahi.com/articles/ASP4P7CYNP4JULEI001.html
+        note: in Japanese
 
   - title: Multidimensional Skill Mismatch
     authors: with Fatih Guvenen, Burhan Kuruscu, and David Wiczer
     conference: "<em>American Economic Journal: Macroeconomics</em>, Vol. 12, No. 1, pp. 210-244, January 2020."
     pdf: papers/multidimensional_skill_mismatch.pdf
     journal: https://doi.org/10.1257/mac.20160241
+    media:
+      - outlet: Bloomberg
+        url: https://www.bloomberg.com/news/articles/2015-08-06/barista-turned-stylist-shows-americans-switching-careers-again
+      - outlet: Washington Post
+        url: https://www.washingtonpost.com/news/wonkblog/wp/2015/08/12/you-could-be-leaving-money-on-the-table-by-not-switching-jobs/
 
   - title: Sectoral Shocks and Home Substitution
     authors: with Alessio Moro
