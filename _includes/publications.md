@@ -83,11 +83,14 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">
-        {% if g.arc %}<a href="{{ g.arc }}" target="_blank">{{ g.title }}</a>{% else %}{{ g.title }}{% endif %}
-      </div>
+      <div class="title">{{ g.title }}</div>
       <div class="author">{{ g.authors }}</div>
       <div class="periodical">{{ g.conference }}</div>
+    {% if g.arc %}
+    <div class="links">
+      <a href="{{ g.arc }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Link</a>
+    </div>
+    {% endif %}
   </div>
 </div>
 </li>
