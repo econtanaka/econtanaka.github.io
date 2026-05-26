@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am Associate Professor of Economics at the [University of Queensland](https://www.uq.edu.au/). I received my Ph.D. in Economics from the University of Minnesota.
+I am Associate Professor of Economics at the [School of Economics, University of Queensland](https://economics.uq.edu.au/). I received my Ph.D. in Economics from the [University of Minnesota](https://cla.umn.edu/economics).
 
 ## Research Interests
 
