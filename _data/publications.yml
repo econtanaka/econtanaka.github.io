@@ -50,11 +50,13 @@ main:
   - title: Trade-Off between Job Losses and the Spread of COVID-19 in Japan
     authors: with Kisho Hoshi, Hiro Kasahara, Ryo Makioka, and Michio Suzuki
     conference: <em>Japanese Economic Review</em>, Vol. 72, Issue 4, pp. 683-716, October 2021.
+    pdf: papers/trade_off_job_losses_covid.pdf
     journal: https://doi.org/10.1007/s42973-021-00092-w
 
   - title: "Who Spent Their COVID-19 Stimulus Payment? Evidence from Personal Finance Software in Japan"
     authors: with Michiru Kaneda and So Kubota
     conference: <em>Japanese Economic Review</em>, Vol. 72, Issue 3, pp. 409-437, January 2021.
+    pdf: papers/covid_stimulus_payment_japan.pdf
     journal: https://doi.org/10.1007/s42973-021-00080-0
     media:
       - outlet: Nikkei
