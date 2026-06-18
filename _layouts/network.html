@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <title>UQ Japanese Researcher Networking</title>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="UQ Japanese Researcher Networking — クイーンズランド大学（University of Queensland）の日本人研究者交流会">
+
+    <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
+    <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
+    <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
+
+    {% if site.font == "Sans Serif" %}
+    <link rel="stylesheet" href="./assets/css/font_sans_serif.css">
+    {% else %}
+    <link rel="stylesheet" href="./assets/css/font.css">
+    {% endif %}
+    {% if site.auto_dark_mode %}
+    <link rel="stylesheet" href="./assets/css/style.css">
+    {% else %}
+    <link rel="stylesheet" href="./assets/css/style-no-dark-mode.css">
+    {% endif %}
+
+    <style>
+      .page {
+        max-width: 720px;
+        margin: 0 auto;
+        padding: 3.0em 20px 60px;
+      }
+      .page .hero {
+        display: block;
+        width: 100%;
+        height: auto;
+        border-radius: 0.4em;
+        margin: 0 0 0.6em;
+      }
+      .page .hero-credit {
+        font-size: 11px;
+        color: #888;
+        margin: 0 0 2.2em;
+      }
+      .page .hero-credit a { color: #888; }
+    </style>
+  </head>
+  <body>
+    <div class="page">
+      {{ content }}
+    </div>
+  </body>
+</html>
