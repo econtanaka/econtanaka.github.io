@@ -13,8 +13,8 @@ I am Associate Professor of Economics at the [University of Queensland](https://
 
 {% include_relative _includes/publications.md %}
 
-## UQ Japanese Researcher Networking
+## UQ Japanese Researchers' Network
 
-I organize a networking group for Japanese researchers at UQ. See the [UQ Japanese Researcher Networking](uq-japanese-researchers.html) page for details.
+I organize the UQ Japanese Researchers' Network (UQ-JRN), a networking group for Japanese researchers at UQ. See the [UQ-JRN page](uq-japanese-researchers.html) for details.
 
 <p style="font-size:0.85rem;color:#777;margin-top:25px;">The views expressed on this website are solely those of the author.</p>
