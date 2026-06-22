@@ -11,6 +11,8 @@ I am Associate Professor of Economics at the [University of Queensland](https://
 - **Macroeconomics:** structural transformation, services economy, home production
 - **Labor Economics:** skill mismatch, occupational mobility, wage inequality, intergenerational mobility
 
+<div id="publications"></div>
+
 {% include_relative _includes/publications.md %}
 
 ## UQ Japanese Researchers' Network
