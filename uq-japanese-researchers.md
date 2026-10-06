@@ -6,7 +6,7 @@ layout: network
 <p class="hero-credit">Photo: The Great Court, UQ St Lucia Campus — Kgbo, <a href="https://commons.wikimedia.org/wiki/File:The_Great_Court,_St_Lucia_Campus,_University_of_Queensland,_Brisbane_02.jpg" rel="noopener">Wikimedia Commons</a>, CC BY-SA 4.0</p>
 
 # UQ Japanese Researchers’ Network (UQ-JRN)
-UQ Japanese Researchers’ Network（UQ-JRN）は、The University of Queensland（UQ）に所属・滞在する日本人研究者を中心とした、**学術交流および専門的なネットワーク形成を目的とする研究者ネットワーク**です。研究分野や所属部局を越えて研究者間の連携を促進し、研究・教育・大学業務に関する情報や経験を共有する機会を提供することを目的としています。
+UQ Japanese Researchers’ Network（UQ-JRN）は、The University of Queensland（UQ）に所属・滞在する日本人研究者を中心とした、学術交流および専門的なネットワーク形成を目的とする研究者ネットワークです。研究分野や所属部局を越えて研究者間の連携を促進し、研究・教育・大学業務に関する情報や経験を共有する機会を提供することを目的としています。
 
 ### Purpose
 UQ-JRNでは、主に以下のような研究者間の情報交換およびネットワーキングを行っています。
@@ -29,11 +29,13 @@ UQ-JRNには、UQの教員（academic staff / faculty）、訪問研究者（vis
 UQ-JRNは、UQに関係する研究者による自主的なprofessional networkとして運営されています。
 
 Coordinator:
+
 **Satoshi Tanaka**  
 Associate Professor  
-School of Economics  
+School of Economics
 The University of Queensland
-Website: [Satoshi Tanaka – Academic Website](./index.html)
+Website: [Satoshi Tanaka](./index.html)
 
 研究者ネットワークへの参加や活動に関するお問い合わせは、下記までご連絡ください。
+
 **Contact:** <email>s.tanaka (at) uq.edu.au</email>
