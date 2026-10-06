@@ -30,11 +30,11 @@ UQ-JRNは、UQに関係する研究者による自主的なprofessional network�
 
 Coordinator:
 
-**Satoshi Tanaka**  
-Associate Professor  
-School of Economics  
-The University of Queensland  
-Website: [Satoshi Tanaka](./index.html)  
+**Satoshi Tanaka**<br>
+Associate Professor<br>
+School of Economics<br>
+The University of Queensland<br>
+Website: [Satoshi Tanaka](./index.html)
 
 研究者ネットワークへの参加や活動に関するお問い合わせは、下記までご連絡ください。
 
