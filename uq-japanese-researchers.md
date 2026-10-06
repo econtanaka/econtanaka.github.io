@@ -34,7 +34,7 @@ Coordinator:
 Associate Professor<br>
 School of Economics<br>
 The University of Queensland<br>
-Website: [Satoshi Tanaka](./index.html)
+Website: [Satoshi Tanaka's Website](./index.html)
 
 研究者ネットワークへの参加や活動に関するお問い合わせは、下記までご連絡ください。
 
